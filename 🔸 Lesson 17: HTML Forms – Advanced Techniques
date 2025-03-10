@@ -1,0 +1,4 @@
+<fieldset>
+  <legend>Personal Info</legend>
+  <input type="text" name="name">
+</fieldset>
