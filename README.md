@@ -1,4 +1,4 @@
-# HTML-Lesson-1-Introduction-to-HTML
+# HTML-Curriculum - Complete Lesson-wise Content
 # HTML Beginner to Advanced Course
 
 Welcome to the **HTML Course for Students** designed to take you from **absolute beginner** to **advanced HTML skills** with practical hands-on activities.
